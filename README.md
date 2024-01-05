@@ -16,8 +16,11 @@
 
 ## Task 1 Understand the Data
 
-### - Build a dataframe for the churn dataset
-### - Examine data type of each column
-### - Gather descriptive statistics
+### - 1. Build a dataframe for the churn dataset
+### - 2. Examine data type of each column
+### - 3. Gather descriptive statistics
 
 ## Task 2 EDA and cleaning
+
+### - 1. EDA and cleaning
+### - 2. Select and build visualization(s) type - Create plots to visualize variables and relationships between variables
