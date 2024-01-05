@@ -24,3 +24,15 @@
 
 ### - 1. EDA and cleaning
 ### - 2. Select and build visualization(s) type - Create plots to visualize variables and relationships between variables
+
+## Task 3 Hypothesis testing
+
+### - 1. Apply descriptive statistics and hypothesis testing in Python.
+
+## Task 4: Regression modeling
+
+### - 1. EDA & Checking Model Assumptions
+### - 2. Model Building and Evaluation
+### - 3. Interpreting Model Results
+
+## Task 5: Decision Tree
