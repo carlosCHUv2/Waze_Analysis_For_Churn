@@ -35,4 +35,6 @@
 ### - 2. Model Building and Evaluation
 ### - 3. Interpreting Model Results
 
-## Task 5: Decision Tree
+## Task 5: Build a machine learning model
+### - 1. Feature engineering - Perform feature selection, extraction, and transformation to prepare the data for modeling
+### - 2. Modeling - Build the models, evaluate them, and advise on next steps
